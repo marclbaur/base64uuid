@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package de.ftk.util;
+package com.heutelbeck.uuid;
 
 import java.util.UUID;
 
